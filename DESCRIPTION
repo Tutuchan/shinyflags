@@ -1,0 +1,18 @@
+Package: shinyflags
+Version: 0.1.0
+Title: Insert Country Flags In Shiny Applications
+Description: Insert country flags in Shiny applications.
+Authors@R: c(
+  person("Pierre", "Formont", email = "pierre.formont@gmail.com", role = c("aut", "cre")),
+  person("Panayiotis", "Lipiridis", email = "yo@lip.is", role = c("ctb", "cph"), comment = "Author of flag-icon-css")
+  )
+License: MIT + file LICENSE
+Imports:
+    htmltools
+Suggests:
+    shiny
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+LazyData: true
+ByteCompile: true
+RoxygenNote: 6.0.1
