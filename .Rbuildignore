@@ -1,2 +1,3 @@
 ^shinyflags\.Rproj$
 ^\.Rproj\.user$
+^vendor\.yml$
